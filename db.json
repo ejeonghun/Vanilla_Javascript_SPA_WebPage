@@ -1,0 +1,231 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "username": "admin",
+      "password": "admin123"
+    },
+    {
+      "username": "admin",
+      "password": "admin",
+      "id": 2
+    },
+    {
+      "username": "1234",
+      "password": "1234",
+      "id": 3
+    },
+    {
+      "username": "admin",
+      "password": "admin11",
+      "id": 4
+    },
+    {
+      "username": "aaa",
+      "password": "aaaa",
+      "id": 5
+    },
+    {
+      "username": "admin",
+      "password": "admin11111",
+      "id": 6
+    },
+    {
+      "username": "test",
+      "password": "test111",
+      "id": 7
+    },
+    {
+      "username": "admin",
+      "password": "12312313",
+      "id": 8
+    }
+  ],
+  "introduction": {
+    "image": "/pic/021.jpg",
+    "name": "이정훈",
+    "age": 24,
+    "education": "영진전문대학교 - 2020년 입학, 현재 2학년재학중",
+    "hakbeon": 2001481,
+    "hobby": "IT관련 뉴스찾아서 보거나 관련된 유튜브 시청",
+    "service_1": "<a href='https://ip.ggm.pw'>https://ip.ggm.pw</a> : Php를 이용해 사용자의 클라이언트IP 주소를 받아와서 DB에 동일한 IP의 정보가 있는지 검사후 없으면 Whois API에 접속하여 해당 클라이언트의 IP의 국가, ISP, 모바일IP유무를 검사하여 DB에 INSERT한다.",
+    "service_2": "<a href='https://local.ggm.pw'>https://local.ggm.pw</a> : 라이믹스 기반으로 만들어진 지역인들을 위한 커뮤니티",
+    "etc": "",
+    "link": "<a href='https://github.com/wjdgns4019'><img src='/pic/github.png' class='dev_link'></a>  <a href='mailto:wjdgns4019@gmail.com'><img src='pic/email.jpg' class='dev_link'></a>"
+  },
+  "department": [
+    {
+      "image": "/pic/AI빅데이터응용소프트웨어.jpg",
+      "name": "컴퓨터정보계열 - AI빅데이터응용소프트웨어과",
+      "location": "영진전문대학교 - 복현캠퍼스(본관)",
+      "professors": [
+        "임덕성 학과장",
+        "김우진 교수",
+        "김호용 교수",
+        "김기종 교수",
+        "김동신 교수",
+        "서용환 교수"
+      ],
+      "eduinfo": "인공지능, 빅데이터 응용 소프트웨어 개발자 양성을 목표로 IT직무의 기초에서부터 심화과정까지 실무능력을 배양할 수 있는 교육과정으로 편성",
+      "jobs": "인공지능 | 빅데이터 개발자, 웹기반 기업 솔루션 개발자, Android,IOS앱 개발자"
+    },
+    {
+      "image": "/pic/정보보안게임콘텐츠.jpg",
+      "name": "컴퓨터정보계열 - 정보보안게임콘텐츠",
+      "location": "영진전문대학교 - 복현캠퍼스(본관)",
+      "professors": [
+        "이종웅 학과장",
+        "변진용 교수",
+        "김경수 교수",
+        "이무수 교수",
+        "고정호 교수"
+      ],
+      "eduinfo": "메타버스 시대를 선도하는 IT보안·게임 전문인력 양성 클라우드 시스템 기반 보안 엔지니어 양성 메타버스 기반 게임 및 웹 콘텐츠 제작 전문가 양성",
+      "jobs": "시스템/보안 엔지니어, 클라우드/네트워크 엔지니어, 개암UI/UX 운영 전문가"
+    },
+    {
+      "image": "/pic/AI클라우드프로그래밍.jpg",
+      "name": "컴퓨터정보계열 - AI클라우드프로그래밍",
+      "location": "영진전문대학교 - 복현캠퍼스(본관)",
+      "professors": [
+        "김경태 학과장",
+        "정재호 교수",
+        "오재광 교수",
+        "최민우 교수",
+        "차용두 교수",
+        "김종규 교수"
+      ],
+      "eduinfo": "인공지능/IoT/웹/앱 분야 소프트웨어 응용 서비스 개발자와 AWS 클라우드, 리눅스, 인터넷, 네트워크, 서버 분야 시스템 엔지니어를 양성하여 4차 산업혁명 핵심 인재로 키웁니다.",
+      "jobs": "컴퓨터 프로그래머, 클라우드 시스템 전문가, IT개발자/엔지니어 양성"
+    },
+    {
+      "image": "/pic/일본IT.jpg",
+      "name": "컴퓨터정보계열 - 일본IT",
+      "location": "영진전문대학교 - 글로벌캠퍼스(칠곡)",
+      "professors": [
+        "김종율 학과장",
+        "신해준 교수",
+        "박성철 교수",
+        "정영철 교수",
+        "서희경 교수",
+        "이종규 교수",
+        "이노우에 사치코 교수"
+      ],
+      "eduinfo": "4차 산업혁명 시대 첨단 소프트웨어 개발자와 네트워크/서버 시스템 엔지니어 양성",
+      "jobs": "일본 IT 시스템 개발자, 일본 IT 시스템 엔지니어"
+    }
+  ],
+  "posts": [
+    {
+      "title": "test1",
+      "content": "teststest",
+      "createdAt": "2023-06-03T09:19:33.756Z",
+      "updatedAt": "2023-06-03T09:19:33.756Z",
+      "comments": [
+        {
+          "content": "1111"
+        },
+        {
+          "content": "12312"
+        },
+        {
+          "content": "123123"
+        }
+      ],
+      "id": 1
+    },
+    {
+      "title": "aaa",
+      "content": "aaaa",
+      "createdAt": "2023-06-03T09:27:17.624Z",
+      "updatedAt": "2023-06-03T09:27:17.624Z",
+      "comments": [
+        {
+          "content": "asdfasdf"
+        },
+        {
+          "content": "123123"
+        }
+      ],
+      "id": 2
+    },
+    {
+      "title": "asdfasd",
+      "content": "asdfasdf",
+      "createdAt": "2023-06-03T09:34:13.635Z",
+      "updatedAt": "2023-06-03T09:34:13.635Z",
+      "comments": [
+        {
+          "content": "asdfasdf"
+        },
+        {
+          "content": "asdfas"
+        }
+      ],
+      "id": 3
+    },
+    {
+      "title": "asdfas",
+      "content": "asdfasf",
+      "createdAt": "2023-06-03T09:34:54.914Z",
+      "updatedAt": "2023-06-03T09:34:54.914Z",
+      "comments": [
+        {
+          "content": "asdfasdfs"
+        }
+      ],
+      "id": 4
+    },
+    {
+      "title": "1111",
+      "content": "11111",
+      "createdAt": "2023-06-04T08:38:26.319Z",
+      "updatedAt": "2023-06-04T08:38:26.319Z",
+      "comments": [
+        {
+          "content": "111111"
+        }
+      ],
+      "id": 5
+    },
+    {
+      "title": "asdfasdfasd수정",
+      "content": "수정",
+      "createdAt": "2023-06-04T08:54:32.943Z",
+      "updatedAt": "2023-06-04T09:04:40.858Z",
+      "comments": [
+        {
+          "content": "111"
+        }
+      ],
+      "id": 6
+    },
+    {
+      "title": "가나다test",
+      "content": "kkakdfkaskdfkasfasdfasfdsf",
+      "createdAt": "2023-06-04T11:54:22.138Z",
+      "updatedAt": "2023-06-04T11:54:22.138Z",
+      "comments": [
+        {
+          "content": ""
+        },
+        {
+          "content": "1111"
+        }
+      ],
+      "id": 7
+    },
+    {
+      "title": "CRUD 테스트",
+      "content": "CRUD테스트",
+      "createdAt": "2023-06-04T23:51:36.762Z",
+      "updatedAt": "2023-06-04T23:51:36.762Z",
+      "comments": [
+        {
+          "content": ""
+        }
+      ],
+      "id": 8
+    }
+  ]
+}
