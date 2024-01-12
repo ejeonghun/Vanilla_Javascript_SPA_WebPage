@@ -9,15 +9,15 @@
   "introduction": [
     {
       "image": "/pic/021.jpg",
-      "name": "이정훈",
+      "name": "ejeonghun",
       "age": 24,
       "education": "영진전문대학교 - 2020년 입학, 현재 2학년 재학중",
       "hakbeon": 2001481,
       "hobby": "IT관련 뉴스찾아서 보거나 관련된 유튜브 시청",
-      "service_1": "<a href='https://ip.ggm.pw'>https://ip.ggm.pw</a> : Php를 이용해 사용자의 클라이언트IP 주소를 받아와서 DB에 동일한 IP의 정보가 있는지 검사후 없으면 Whois API에 접속하여 해당 클라이언트의 IP의 국가, ISP, 모바일IP유무를 검사하여 DB에 INSERT한다.",
-      "service_2": "<a href='https://local.ggm.pw'>https://local.ggm.pw</a> : 라이믹스 기반으로 만들어진 지역인들을 위한 커뮤니티",
+      "service_1": "<a href='https://ip.ggm.pw'>https://ip.ggm.kr</a> : Php를 이용해 사용자의 클라이언트IP 주소를 받아와서 DB에 동일한 IP의 정보가 있는지 검사후 없으면 Whois API에 접속하여 해당 클라이언트의 IP의 국가, ISP, 모바일IP유무를 검사하여 DB에 INSERT한다.",
+      "service_2": "<a href='https://local.ggm.pw'>https://local.ggm.kr</a> : 라이믹스 기반으로 만들어진 지역인들을 위한 커뮤니티",
       "etc": "",
-      "link": "<a href='https://github.com/wjdgns4019'><img src='/pic/github.png' class='dev_link'></a>  <a href='mailto:wjdgns4019@gmail.com'><img src='pic/email.jpg' class='dev_link'></a>",
+      "link": "<a href='https://github.com/ejeonghun'><img src='/pic/github.png' class='dev_link'></a>  <a href='mailto:wjdgns4019@gmail.com'><img src='pic/email.jpg' class='dev_link'></a>",
       "id": 1
     },
     {
