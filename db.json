@@ -4,11 +4,16 @@
       "username": "admin",
       "password": "admin",
       "id": 1
+    },
+    {
+      "id": "3699",
+      "username": "asdf",
+      "password": "asdf"
     }
   ],
   "introduction": [
     {
-      "image": "/pic/021.jpg",
+      "image": "pic/021.png",
       "name": "ejeonghun",
       "age": 24,
       "education": "영진전문대학교 - 2020년 입학, 현재 2학년 재학중",
@@ -17,7 +22,7 @@
       "service_1": "<a href='https://ip.ggm.pw'>https://ip.ggm.kr</a> : Php를 이용해 사용자의 클라이언트IP 주소를 받아와서 DB에 동일한 IP의 정보가 있는지 검사후 없으면 Whois API에 접속하여 해당 클라이언트의 IP의 국가, ISP, 모바일IP유무를 검사하여 DB에 INSERT한다.",
       "service_2": "<a href='https://local.ggm.pw'>https://local.ggm.kr</a> : 라이믹스 기반으로 만들어진 지역인들을 위한 커뮤니티",
       "etc": "",
-      "link": "<a href='https://github.com/ejeonghun'><img src='/pic/github.png' class='dev_link'></a>  <a href='mailto:wjdgns4019@gmail.com'><img src='pic/email.jpg' class='dev_link'></a>",
+      "link": "<a href='https://github.com/ejeonghun'><img src='pic/github.png' class='dev_link'></a>  <a href='mailto:wjdgns4019@gmail.com'><img src='pic/email.jpg' class='dev_link'></a>",
       "id": 1
     },
     {
@@ -75,7 +80,7 @@
   ],
   "department": [
     {
-      "image": "/pic/AI빅데이터응용소프트웨어.jpg",
+      "image": "pic/AI빅데이터응용소프트웨어.jpg",
       "name": "컴퓨터정보계열 - AI빅데이터응용소프트웨어과",
       "location": "영진전문대학교 - 복현캠퍼스(본관)",
       "professors": [
@@ -92,7 +97,7 @@
       "etc": null
     },
     {
-      "image": "/pic/정보보안게임콘텐츠.jpg",
+      "image": "pic/정보보안게임콘텐츠.jpg",
       "name": "컴퓨터정보계열 - 정보보안게임콘텐츠",
       "location": "영진전문대학교 - 복현캠퍼스(본관)",
       "professors": [
@@ -108,7 +113,7 @@
       "etc": "ㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋ"
     },
     {
-      "image": "/pic/AI클라우드프로그래밍.jpg",
+      "image": "pic/AI클라우드프로그래밍.jpg",
       "name": "컴퓨터정보계열 - AI클라우드프로그래밍",
       "location": "영진전문대학교 - 복현캠퍼스(본관)",
       "professors": [
@@ -124,7 +129,7 @@
       "id": 3
     },
     {
-      "image": "/pic/일본IT.jpg",
+      "image": "pic/일본IT.jpg",
       "name": "컴퓨터정보계열 - 일본IT",
       "location": "영진전문대학교 - 글로벌캠퍼스(칠곡)",
       "professors": [
@@ -202,6 +207,21 @@
         }
       ],
       "id": 7
+    },
+    {
+      "id": "5252",
+      "title": "asdfas",
+      "content": "asdfasdf",
+      "createdAt": "2024/01/12, 20:09:10",
+      "updatedAt": "2024/01/12, 20:09:10",
+      "comments": [
+        {
+          "content": "asdfsf"
+        },
+        {
+          "content": "3333"
+        }
+      ]
     }
   ]
 }
